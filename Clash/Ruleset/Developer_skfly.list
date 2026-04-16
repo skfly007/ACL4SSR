@@ -1,0 +1,5 @@
+# 内容：Developer 开发者常用国外网站、镜像和论坛
+# 数量：20条
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,brew.sh
